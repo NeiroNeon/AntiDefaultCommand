@@ -1,0 +1,5 @@
+name: AntiDefaultCommand
+main: AlicanCopur\AntiDefaultCommand\Main
+author: AlicanCopur
+api: [3.0.6, 4.0.0]
+version: 1.0.A
